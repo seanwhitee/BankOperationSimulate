@@ -1,4 +1,4 @@
-# bank-operation-simulate
+# Bank Operation Simulate
 ![Static Badge](https://img.shields.io/badge/c%2Fc%2B%2B-100%25-green)
 
 
