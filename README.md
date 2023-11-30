@@ -1,4 +1,7 @@
 # bank-operation-simulate
+![Static Badge](https://img.shields.io/badge/c%2Fc%2B%2B-100%25-green)
+
+
 Using linked list and queue data structure to simulate the operation in bank.
 
 ## Introduction
